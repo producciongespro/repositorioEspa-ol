@@ -9,10 +9,20 @@ h3, h4 {
     letter-spacing: 10px;
     font-size: 30px;
     font-weight: bold;
-    color: #FFFF00;
-}
+    color: #FFFF00
+    }
 
-#logo {width: 70px; height: 60px;}
+
+/* Color de los títulos los h3*/
+#titulo_pagina {color: #B40404;}
+#titulo_enlace {color: #81DAF5;}
+#titulo_antologias {color: #58ACFA ;}
+#titulo_textos {color: #B40404;}
+#titulo_documentos {color: #58FAF4;}
+
+
+
+#logo {width: 60px; height: 50px;}
 
 .doc {color: #0431B4;}
 
@@ -100,7 +110,7 @@ h3, h4 {
 .navbar {
     font-family: Montserrat, sans-serif;
     margin-bottom: 0;
-    background-color: #6A0888;
+    background-color: #8A0808;
     border: 0;
     font-size: 11px !important;
     color: #ffffff;
