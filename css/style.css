@@ -1,6 +1,6 @@
 
 body {
-    background-color: #000000;
+    background-color: #FFFFFF;
     font: 400 15px/1.8 Lato, sans-serif;
     color: #777;
 }
@@ -14,6 +14,7 @@ h3, h4 {
 
 
 /* Color de los títulos los h3*/
+#titulo_asesoria {color: #852E20;}
 #titulo_programa {color: #BF4054;}
 #titulo_sitios {color: #16AF95;}
 #titulo_antologias {color: #EA920E ;}
@@ -23,6 +24,9 @@ h3, h4 {
 #titulo_documentos {color: #1D70B7;}
 #titulo_textos {color: #F39200;}
 #titulo_otros {color: #E30513;}
+#titulo_contacto {color: #852E20;}
+#titulo_desarrollo {color: #852E20;}
+
 
 
 
